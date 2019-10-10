@@ -1,0 +1,19 @@
+
+th[scope="naam"]{
+	font-color:#757575;
+	border:2px solid gray;
+	padding-top:30;
+	padding-bottom:30px;
+	padding-left:80px;
+	padding-right:80px;
+	text-align-left;
+  }
+
+th[scope="tijd"]{
+	border:2px solid black;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-left:80px;
+	padding-right:80px;
+	
+}
